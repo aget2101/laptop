@@ -1,0 +1,16 @@
+========================================================================================================================
+== Test 2: treasure_main Text Input
+== Checks output and memory correctness of treasure_main program with text file
+== as input
+Running test...
+Expected output is in file 'test_results/raw/lab_03-2-expected.tmp'
+Actual output is in file 'test_results/raw/lab_03-2-actual.tmp'
+Error: SEGMENTATION FAULT. Output:
+Loading treasure map from text file 'map1.txt'
+Reading map from text file 'map1.txt'
+Allocating map struct
+Map is 540352567 by 540019251
+1698963506 treasures on the map
+Allocating array of treasure locations
+Reading treasures
+
