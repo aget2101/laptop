@@ -74,7 +74,7 @@ Treasuremap Files
   |
   |
   | > ./treasure_main -bin map2.bin            # run on second treasuremap
-  | Loading treasure map from file 'map2.bin'
+  | Loading treasure map from file 'map2.in'
   | Reading map from binary file 'map2.bin'
   | Allocating map struct
   | Map is 9 by 13
